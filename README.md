@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything from react to node, i'm happy to help**
 
-- 📫 How to reach me **(blessing.u.uche@gmail.com)**
+- 📫 How to reach me **blessing.u.uche@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://blessing-uche-resume.netlify.app/)
 
