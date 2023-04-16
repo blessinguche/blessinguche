@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessinguche&label=Profile%20views&color=0e75b6&style=flat" alt="blessinguche" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/blessinguche/portfolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/blessinguche/portfolio)
 
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **anything from react to node, i'm happy to help**
 
-- 📫 How to reach me **blessing.u.uche@gmail.com**
+- 📫 How to reach me **(blessing.u.uche@gmail.com)**
 
-- 📄 Know about my experiences [https://blessing-uche-resume.netlify.app/](https://blessing-uche-resume.netlify.app/)
+- 📄 Know about my experiences [Resume](https://blessing-uche-resume.netlify.app/)
 
 - ⚡ Fun fact **I'm pretty funny**
 
