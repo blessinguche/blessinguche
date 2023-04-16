@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blessing</h1>
 <h3 align="center">As a passionate full-stack developer, my expertise lies in creating state-of-the-art Progressive Web Apps and Single Page Applications using modern technologies such as React, Node and JavaScript. I have extensive experience in various web development technologies including HTML5, CSS, Sass, Javascript ES6+, React.js, Node.js, Express.js, SQL, Postgres, and Mongodb databases. My drive for software engineering and programming motivates me to continuously explore new challenges and devise creative solutions for intricate problems. I'm eager to collaborate and bring our vision to reality.</h3>
 
-##💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on [My Portfolio](https://github.com/blessinguche/portfolio)<br><br>🌱 I’m currently learning Typescript<br><br>💬 Ask me about anything from react to node, i'm happy to help<br><br>📫 How to reach me through [My Email](blessing.u.uche@gmail.com)<br><br>📄 Know about my experiences on [My Resume](https://blessing-uche-resume.netlify.app)/<br><br>⚡ Fun fact I'm pretty funny
 
 
